@@ -1,0 +1,44 @@
+#banner
+image=https://i.imgur.com/rIzqukr.png
+text=&f&lПриветствуем в интернете!
+
+#navigation
+item-link-1=welcome.official
+item-label-1=Главная
+item-icon-1=HOME
+item-link-2=welcome.official/websites
+item-label-2=Официальные сайты
+item-icon-2=CONTACTS
+
+#paragraph
+text=&e&lБраузер &rработает благодаря великому Азимкину. Вы можете открывать наши веб-страницы, найти руководство по созданию страницы, а так же загрузить свою страницу в сеть вы можете у Азимкина!
+padding=10
+
+#header
+text=&f&lДля начала
+scale=2
+align=left
+padding=10
+
+#paragraph
+text=Как и в обычном браузере вы можете посещать сайты. Вы можете посетить сайты которые находятся в репозитории https://github.com/JacksonRPCoolDevs/websites/tree/main , а так же страницы с реальными ссылками (к примеру https://azimkin.top) У КОТОРЫХ ФОРМАТ СТРАНИЦЫ НАШ (НИОДИН РЕАЛЬНЫЙ САЙТ НЕ ЗАРАБОТАЕТ, ЕСЛИ ВЫ ПЕРЕЙДЕТЕ ПО РЕАЛЬНОЙ ССЫЛКЕ ВЫ УВИДИТЕ ВСЕГО ЛИШЬ ОБЫЧНУЮ HTML-РАЗМЕТКУ)!!!
+padding=10
+
+#header
+text=&f&lКредиты
+scale=2
+align=left
+padding=10
+
+#paragraph
+text=&e&lGitWeb&r was originally created by MinecraftDoodler. It is now updated and managed by MrCrayfish.
+padding=10
+
+#paragraph
+text=В данный момент браузер и мод разрабатывает Azimkin.
+padding=0
+
+#footer
+title=GitWeb
+sub-title=не Copyright (c) Azimkin
+home-page=welcome.official
